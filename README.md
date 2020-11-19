@@ -6,4 +6,4 @@ Iv used three wireless adapters (one for deauthing - one for the cloned AP - one
 
 Install the dependencies and run evil.py (with sudo privileges)
 
-default ssh login pi:raspberry
+
